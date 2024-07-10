@@ -7,6 +7,7 @@ More slides will be added as and when they are provided.
 - [The Art of Functional State Management](/Presentations/The_Art_of_Functional_State_Management.pdf) by Araks Avoyan
 - [NavigationStack](/Presentations/NavigationStack.pdf) by Muralidharan Kathiresan
 - [Sustainable Mobile Apps](/Presentations/Sustainable_Mobile_Apps.pdf) by Jane Bondar
+- [Mobile DevOps: Streamline your Builds, testing Distribution and Publish](/Presentations/Mobile_Vs_Backend_DevOps.pdf) by Mete Baydar
 - [The Date-ing Game](/Presentations/The_Date_ing_Game.pdf) by Ellen Shapiro
 - [Sequencing Success](/Presentations/Sequencing_Success.pdf) by Adrian Russell
 - [SwiftUI Meets Metal](/Presentations/SwiftUI_meets_Metal.pdf) by Veronika Zelinková
